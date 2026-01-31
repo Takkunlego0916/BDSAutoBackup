@@ -1,0 +1,13 @@
+{
+  "server_executable": "bedrock_server.exe",
+  "working_dir": ".",
+  "backup_interval": 3600,
+  "max_backups": 24,
+  "backup_targets": [
+    "worlds",
+    "resource_packs",
+    "behavior_packs"
+  ],
+  "extra_files": [],
+  "log_file": "bds_backup.log"
+}
