@@ -17,7 +17,7 @@ GUI で簡単に設定・操作でき、バックアップと復元を手軽に�
 
 ---
 
-## ⚙️ 使い方
+## 使い方
 
 ### 1. Python版
 
@@ -28,3 +28,18 @@ GUI で簡単に設定・操作でき、バックアップと復元を手軽に�
 
 ```bash
 python BDSAutoBackup.py
+```
+
+5.GUIで以下を設定：
+
+-  Server Executable（bedrock_server.exe のパス）
+
+-  Working Directory（サーバーがあるフォルダ）
+
+-  Backup Interval（秒単位）
+
+-  Max Backups（保持する世代数）
+
+-  Backup Targets / Extra Files（保存するフォルダやファイル）
+
+6.「Manual Backup」で手動バックアップ、または自動バックアップが開始されます。
