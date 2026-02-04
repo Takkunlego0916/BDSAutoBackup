@@ -1,4 +1,4 @@
-# BDS Auto Backup GUI
+# BDS Auto Backup
 
 BDS Auto Backup は、**Minecraft 統合版(Bedrock)サーバー(BDS)の自動バックアップツール**です。  
 GUI で簡単に設定・操作でき、バックアップと復元を手軽に行えます。
